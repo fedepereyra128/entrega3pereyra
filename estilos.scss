@@ -397,3 +397,35 @@ button:hover {
   }
 }
 
+
+
+
+  #cargando {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+
+.proximamente
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #4CAF50;
+}
+
+
+.banner-mujeres {
+  position: relative;
+  width: 100%;
+}
+
+.imagen-banner {
+  width: 100%;
+  height: auto;
+}
